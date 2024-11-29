@@ -1,0 +1,32 @@
+{
+    "auth": {
+        "username": "marcelofernandez_83d9Kv",
+        "access_key": "H4E66XqtSVyKzfFxouee"
+    },
+    "browsers": [
+        {
+            "browser": "chrome",
+            "os": "Windows 10",
+            "versions": [
+                "latest",
+                "latest-1"
+            ]
+        },
+        
+        {
+            "browser": "edge",
+            "os": "OS X Catalina",
+            "versions": [
+                "latest"
+            ]
+        }
+    ],
+    "run_settings": {
+        "cypress_config_file": "cypress.json",
+        "project_name": "project-nameTest",
+        "build_name": "build-name-test",
+        "exclude": [],
+        "parallels": "3",
+        "npm_dependencies": {}
+    }
+}
